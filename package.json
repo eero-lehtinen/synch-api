@@ -79,7 +79,7 @@
 		"wrangler": "^4.82.2"
 	},
 	"dependencies": {
-		"@better-auth/drizzle-adapter": "1.7.1",
+		"@better-auth/drizzle-adapter": "1.7.7",
 		"@hono/node-server": "^2.0.12",
 		"@hono/zod-validator": "^0.7.6",
 		"@libsql/client": "^0.15.15",
